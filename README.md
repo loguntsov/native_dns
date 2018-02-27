@@ -14,6 +14,10 @@ It support A and MX records.
 
 You can use one client instance from several parallel working processes.
 
+# Links
+
+Based on: https://github.com/hepek/erldnsclient
+
 # License
 
 MIT
