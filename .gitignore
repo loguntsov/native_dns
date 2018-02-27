@@ -1,0 +1,9 @@
+_build
+log
+.rebar
+.idea
+*.iml
+erl_crash.dump
+rebar3.crashdump
+rebar3
+
